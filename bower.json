@@ -1,0 +1,26 @@
+{
+  "name": "redemo",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "react jquery",
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "authors": [
+    "molee1905"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.2",
+    "jquery": "~2.1.4",
+    "marked": "~0.3.3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "redemo",
+  "version": "0.0.1",
+  "description": "reactjs org tutorial demo,  just for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/molee1905/redemo.git"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0",
+    "gulp-nodemon": "^2.0.2"
+  },
+  "author": "molee1905",
+  "license": "MIT"
+}
